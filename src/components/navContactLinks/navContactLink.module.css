@@ -1,0 +1,10 @@
+.btn {
+    display: flex;
+    width: 168.09px;
+    padding: 13px 29.322px 13px 31px;
+    height: 44px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background: linear-gradient(92deg, #00ACEA -3.69%, #03488C 99.09%);
+}

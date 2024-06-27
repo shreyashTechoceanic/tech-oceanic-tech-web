@@ -1,0 +1,56 @@
+.box {
+  display: flex;
+  width: 357.025px;
+  padding: 32.727px 20.826px 32.727px 20.827px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 23.306px;
+  border-radius: 23.802px;
+  border: 0.992px solid rgba(189, 189, 189, 0.1);
+  backdrop-filter: blur(5.950413227081299px);
+  /* explanation below */
+}
+
+.logobox {
+  display: flex;
+  width: 53.554px;
+  height: 53.554px;
+  padding: 14.876px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 26.777px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.titletext {
+  display: flex;
+  width: 111px;
+  height: 20px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: var(--Light-White, #fff);
+  text-align: center;
+  /* font-family: Urbanist; */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.boxtext {
+  display: flex;
+  width: 306.565px;
+  height: 71.405px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: var(--Light-White, #fff);
+  text-align: center;
+  /* font-family: Urbanist; */
+  font-size: 15.868px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 23.802px; /* 150% */
+}

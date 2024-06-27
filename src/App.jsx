@@ -6,8 +6,8 @@ import { Outlet } from "react-router-dom";
 function App() {
   return (
     <>
-      <div className="w-full flex flex-col gap-10">
-        <div className="w-[1270px]">
+      <div className="w-full">
+        <div className="w-[460px] md:w-[1259px] p-5 mx-auto ">
           <NavBar />
         </div>
         <Outlet />
