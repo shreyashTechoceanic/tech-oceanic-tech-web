@@ -44,7 +44,7 @@ const Home = () => {
 
         {/* SECTION-2 */}
 
-        <div className="grid grid-cols-1 md:grid-cols-3  gap-5 items-center justify-center mt-14">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3  gap-5 items-center justify-center mt-14">
           <ServiceBox
             imgsrc={SVG1}
             titletext="Web Design"
