@@ -1,0 +1,40 @@
+.joinTheCommunity_container{
+    /* width: 1,200px; */
+height: 284.85px;
+background-color: red;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.joinTheCommunity_headingWhiteText{
+    font-family: Manrope;
+font-size: 48px;
+font-weight: 700;
+line-height: 65.57px;
+color: var(--Light-White, rgba(255, 255, 255, 1));
+
+}
+
+.joinTheCommunity_headingBlueText{
+    background: linear-gradient(90.66deg, #01A6E4 49.43%, #044B8E 70.37%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.joinTheCommunity_contentText{
+    background-color: bisque;
+    width: 574px;
+    height: 75px;    
+    font-family: Manrope;
+font-size: 18px;
+font-weight: 500;
+line-height: 24.59px;
+text-align: center;
+    color: var(--Dark-Muted-Slate, rgba(165, 165, 165, 1));
+
+}

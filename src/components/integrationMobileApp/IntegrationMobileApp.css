@@ -1,0 +1,30 @@
+.integrationMobileApp_container{
+    /* width: 1,122px; */
+height: 91.8px;
+background-color: blueviolet;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.integrationMobileApp_heading{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+background: linear-gradient(90.66deg, #01A6E4 49.43%, #044B8E 70.37%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+color: transparent;
+}
+
+.integrationMobileApp_text{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 23.8px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}

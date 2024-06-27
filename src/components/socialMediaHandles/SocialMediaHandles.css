@@ -1,0 +1,15 @@
+.socialMediaHandles_container{
+    width:228px;
+height: 34.53px;
+background-color: rgb(24, 16, 6);
+display: flex;
+justify-content: space-between;
+}
+
+.socialMediaHandles_iconBg{
+    width: 34.53px;
+height: 34.53px;
+padding: 6.91px;
+border-radius: 6.91px;
+background: rgba(255, 255, 255, 0.1);
+}

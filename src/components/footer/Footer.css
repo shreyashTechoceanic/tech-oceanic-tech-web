@@ -1,0 +1,29 @@
+.footer_container{
+    background-color: rgb(56, 52, 52);
+    padding: 116px 91px 44px 116px ;
+    /* width: 1440px; */
+    height: 480px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.footer_logoText{
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.86px;
+    color: var(--light-muted-azure-60, rgba(198, 207, 220, 0.6));
+    /* width: 302px; */
+    width: 266px;
+    height: 66px;
+    
+}
+
+.footer_smallText{
+    font-family: Manrope;
+font-size: 14px;
+font-weight: 500;
+line-height: 19.12px;
+color: var(--light-muted-azure-60, rgba(198, 207, 220, 0.6));
+}
